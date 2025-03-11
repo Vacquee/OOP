@@ -7,6 +7,6 @@ class MainProgram
     {
         OOP.ManageProduct.InsertNewProduct newProduct = new OOP.ManageProduct.InsertNewProduct();
 
-        newProduct.InsertData("nIKE NA SHOESSSS" , 1000);
+        newProduct.InsertData("nIKE NA SHOESSSS", 1000);
     }
 }
